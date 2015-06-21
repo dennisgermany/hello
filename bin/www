@@ -8,6 +8,8 @@ var app = require('../app');
 var debug = require('debug')('hello:server');
 var http = require('http');
 
+console.log('this is mylife :P');
+
 /**
  * Get port from environment and store in Express.
  */
